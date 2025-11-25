@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4</id>
+      <size>100</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-11-21 16:59:52.290104+00:00</created>
+      <updated>2025-11-21 21:02:42.883078+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>99</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4</id>
+          <start>0</start>
+          <stop>99</stop>
+          <url>http://localhost:8080/api/jobs/4</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>BlURryface</username>
+        <email>Kirill0452@yandex.ru</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>text</name>
+          <color>#7ba0c1</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>transcription</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value></default_value>
+              <values></values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-11-21 21:04:02.459784+00:00</dumped>
+  </meta>
+  <image id="0" name="00009.jpg" width="450" height="281">
+    <box label="text" source="manual" occluded="0" xtl="81.63" ytl="151.56" xbr="374.50" ybr="233.90" z_order="0">
+      <attribute name="transcription">School</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="61.41" ytl="37.93" xbr="383.40" ybr="123.20" z_order="0">
+      <attribute name="transcription">Back to</attribute>
+    </box>
+  </image>
+  <image id="1" name="00023.jpg" width="810" height="540">
+    <box label="text" source="manual" occluded="0" xtl="141.24" ytl="263.06" xbr="651.80" ybr="470.20" z_order="0">
+      <attribute name="transcription">spanish ?</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="84.10" ytl="41.44" xbr="712.60" ybr="232.00" z_order="0">
+      <attribute name="transcription">Do you speak</attribute>
+    </box>
+  </image>
+  <image id="2" name="00315.jpg" width="275" height="183">
+    <box label="text" source="manual" occluded="0" xtl="14.94" ytl="39.67" xbr="269.47" ybr="154.86" z_order="0">
+      <attribute name="transcription">HELP</attribute>
+    </box>
+  </image>
+  <image id="3" name="01189.jpg" width="224" height="202">
+    <box label="text" source="manual" occluded="0" xtl="42.01" ytl="75.98" xbr="181.68" ybr="140.56" z_order="0">
+      <attribute name="transcription">NAME</attribute>
+    </box>
+  </image>
+  <image id="4" name="01486.jpg" width="226" height="223">
+    <box label="text" source="manual" occluded="0" xtl="148.02" ytl="98.64" xbr="210.80" ybr="132.55" rotation="5.70" z_order="0">
+      <attribute name="transcription">KING.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="136.32" ytl="39.47" xbr="186.46" ybr="67.29" rotation="18.80" z_order="0">
+      <attribute name="transcription">KING</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="27.80" ytl="113.78" xbr="105.94" ybr="147.49" rotation="341.40" z_order="0">
+      <attribute name="transcription">QUEEN.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="38.64" ytl="38.22" xbr="102.82" ybr="66.76" rotation="355.20" z_order="0">
+      <attribute name="transcription">QUEEN.</attribute>
+    </box>
+  </image>
+  <image id="5" name="01535.jpg" width="170" height="170">
+    <box label="text" source="manual" occluded="0" xtl="61.25" ytl="37.97" xbr="106.95" ybr="83.32" z_order="0">
+      <attribute name="transcription">23</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="53.78" ytl="127.14" xbr="116.80" ybr="160.94" z_order="0">
+      <attribute name="transcription">NAME</attribute>
+    </box>
+  </image>
+  <image id="6" name="01713.jpg" width="717" height="717">
+    <box label="text" source="manual" occluded="0" xtl="32.20" ytl="313.00" xbr="640.23" ybr="467.63" rotation="339.10" z_order="0">
+      <attribute name="transcription">Wolfskin</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="35.86" ytl="193.98" xbr="400.37" ybr="346.29" rotation="339.10" z_order="0">
+      <attribute name="transcription">Jack</attribute>
+    </box>
+  </image>
+  <image id="7" name="01720.jpg" width="1280" height="960">
+    <box label="text" source="manual" occluded="0" xtl="205.71" ytl="605.70" xbr="1196.56" ybr="765.89" z_order="0">
+      <attribute name="transcription">GreenPark</attribute>
+    </box>
+  </image>
+  <image id="8" name="01777.jpg" width="450" height="305">
+    <box label="text" source="manual" occluded="0" xtl="9.60" ytl="80.93" xbr="432.32" ybr="187.72" rotation="349.80" z_order="0">
+      <attribute name="transcription">BAZAR</attribute>
+    </box>
+  </image>
+  <image id="9" name="01827.jpg" width="640" height="480">
+    <box label="text" source="manual" occluded="0" xtl="143.61" ytl="124.47" xbr="350.31" ybr="242.93" z_order="0">
+      <attribute name="transcription">SHOP</attribute>
+    </box>
+  </image>
+  <image id="10" name="01881.jpg" width="730" height="275">
+    <box label="text" source="manual" occluded="0" xtl="128.08" ytl="183.39" xbr="639.70" ybr="263.30" z_order="0">
+      <attribute name="transcription">HYUNDAI</attribute>
+    </box>
+  </image>
+  <image id="11" name="01908.jpg" width="355" height="298">
+    <box label="text" source="manual" occluded="0" xtl="80.65" ytl="130.25" xbr="273.59" ybr="184.74" z_order="0">
+      <attribute name="transcription">OPEN</attribute>
+    </box>
+  </image>
+  <image id="12" name="02687.jpg" width="1920" height="1281">
+    <box label="text" source="manual" occluded="0" xtl="1191.93" ytl="412.07" xbr="1578.47" ybr="602.78" z_order="0">
+      <attribute name="transcription">STOP</attribute>
+    </box>
+  </image>
+  <image id="13" name="04089.jpg" width="240" height="236">
+    <box label="text" source="manual" occluded="0" xtl="91.75" ytl="131.93" xbr="151.41" ybr="158.34" z_order="0">
+      <attribute name="transcription">JAM</attribute>
+    </box>
+  </image>
+  <image id="14" name="04966.jpg" width="600" height="400">
+    <box label="text" source="manual" occluded="0" xtl="87.87" ytl="56.14" xbr="505.92" ybr="323.11" z_order="0">
+      <attribute name="transcription">love</attribute>
+    </box>
+  </image>
+  <image id="15" name="04970.jpg" width="1023" height="683">
+    <box label="text" source="manual" occluded="0" xtl="392.56" ytl="397.13" xbr="692.15" ybr="570.47" z_order="0">
+      <attribute name="transcription">me</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="158.49" ytl="60.01" xbr="799.29" ybr="350.05" z_order="0">
+      <attribute name="transcription">Wash</attribute>
+    </box>
+  </image>
+  <image id="16" name="04974.jpg" width="1280" height="853">
+    <box label="text" source="manual" occluded="0" xtl="43.56" ytl="285.52" xbr="1208.63" ybr="571.04" z_order="0">
+      <attribute name="transcription">sadness</attribute>
+    </box>
+  </image>
+  <image id="17" name="06968.jpg" width="512" height="512">
+    <box label="text" source="manual" occluded="0" xtl="165.55" ytl="155.27" xbr="348.69" ybr="361.94" z_order="0">
+      <attribute name="transcription">A</attribute>
+    </box>
+  </image>
+  <image id="18" name="09166.jpg" width="435" height="116">
+    <box label="text" source="manual" occluded="0" xtl="153.81" ytl="17.74" xbr="435.00" ybr="98.08" z_order="0">
+      <attribute name="transcription">HDLT</attribute>
+    </box>
+  </image>
+  <image id="19" name="10577.jpg" width="201" height="251">
+    <box label="text" source="manual" occluded="0" xtl="40.24" ytl="18.05" xbr="150.34" ybr="231.22" z_order="0">
+      <attribute name="transcription">N</attribute>
+    </box>
+  </image>
+  <image id="20" name="10776.jpg" width="228" height="221">
+    <polygon label="text" source="manual" occluded="0" points="15.12,9.71;31.24,174.89;206.57,205.80;197.74,4.86" z_order="0">
+      <attribute name="transcription">R</attribute>
+    </polygon>
+  </image>
+  <image id="21" name="10787.jpg" width="225" height="225">
+    <box label="text" source="manual" occluded="0" xtl="12.17" ytl="127.70" xbr="194.04" ybr="199.86" z_order="0">
+      <attribute name="transcription">BRIDE</attribute>
+    </box>
+  </image>
+  <image id="22" name="14034.jpg" width="700" height="372">
+    <polygon label="text" source="manual" occluded="0" points="15.57,169.67;691.67,160.38;700.00,218.68;700.00,225.43;1.45,230.26" z_order="0">
+      <attribute name="transcription">HELLY HANSEN</attribute>
+    </polygon>
+  </image>
+  <image id="23" name="14222.jpg" width="228" height="221">
+    <polygon label="text" source="manual" occluded="0" points="34.56,115.71;199.51,120.34;202.38,83.47;47.14,79.93" z_order="0">
+      <attribute name="transcription">At Home</attribute>
+    </polygon>
+  </image>
+  <image id="24" name="14890.jpg" width="800" height="585">
+    <box label="text" source="manual" occluded="0" xtl="105.55" ytl="140.85" xbr="417.09" ybr="219.18" z_order="0">
+      <attribute name="transcription">DO NOT</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="104.38" ytl="224.44" xbr="619.92" ybr="308.02" z_order="0">
+      <attribute name="transcription">TOUCH-HOT</attribute>
+    </box>
+  </image>
+  <image id="25" name="15825.jpg" width="225" height="225">
+    <box label="text" source="manual" occluded="0" xtl="6.40" ytl="60.80" xbr="218.60" ybr="162.10" z_order="0">
+      <attribute name="transcription">LEGO</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="210.62" ytl="59.75" xbr="223.88" ybr="73.77" z_order="0">
+      <attribute name="transcription">R</attribute>
+    </box>
+  </image>
+  <image id="26" name="16330.jpg" width="626" height="417">
+    <polygon label="text" source="manual" occluded="0" points="15.59,398.33;616.40,322.91;587.65,89.17;28.09,172.92" z_order="0">
+      <attribute name="transcription">2022</attribute>
+    </polygon>
+  </image>
+  <image id="27" name="1a.jpg" width="259" height="194">
+    <box label="text" source="manual" occluded="0" xtl="27.09" ytl="27.81" xbr="228.68" ybr="64.64" z_order="0">
+      <attribute name="transcription">CAUTION</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="84.08" ytl="122.89" xbr="168.80" ybr="147.90" z_order="0">
+      <attribute name="transcription">Had My</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="78.46" ytl="97.01" xbr="178.48" ybr="118.52" z_order="0">
+      <attribute name="transcription">I Haven't</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="69.16" ytl="150.03" xbr="188.20" ybr="170.80" z_order="0">
+      <attribute name="transcription">Coffee Yet</attribute>
+    </box>
+  </image>
+  <image id="28" name="2a.jpg" width="318" height="159">
+    <box label="text" source="manual" occluded="0" xtl="84.41" ytl="55.58" xbr="233.20" ybr="76.50" z_order="0">
+      <attribute name="transcription">Remote Control</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="40.89" ytl="136.38" xbr="276.70" ybr="158.50" z_order="0">
+      <attribute name="transcription">Cabs May Be Unoccupied</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="43.65" ytl="109.63" xbr="272.90" ybr="128.90" z_order="0">
+      <attribute name="transcription">In This Area. Lovomotive</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="56.63" ytl="3.96" xbr="260.43" ybr="39.60" z_order="0">
+      <attribute name="transcription">Attention</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="57.20" ytl="83.02" xbr="259.83" ybr="105.30" z_order="0">
+      <attribute name="transcription">Locomotives Operate</attribute>
+    </box>
+  </image>
+  <image id="29" name="3a.jpg" width="800" height="600">
+    <box label="text" source="manual" occluded="0" xtl="43.11" ytl="366.26" xbr="556.89" ybr="422.06" z_order="0">
+      <attribute name="transcription">ninety-nine percent</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="38.62" ytl="300.00" xbr="552.40" ybr="355.80" z_order="0">
+      <attribute name="transcription">percent inspiration,</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="42.81" ytl="234.11" xbr="421.69" ybr="288.06" z_order="0">
+      <attribute name="transcription">Success is one</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="44.01" ytl="530.26" xbr="211.87" ybr="560.23" z_order="0">
+      <attribute name="transcription">Thomas Edison</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="41.91" ytl="431.00" xbr="377.00" ybr="491.60" z_order="0">
+      <attribute name="transcription">perspiration.</attribute>
+    </box>
+  </image>
+  <image id="30" name="4a.jpg" width="183" height="275">
+    <box label="text" source="manual" occluded="0" xtl="33.85" ytl="99.88" xbr="113.80" ybr="143.60" z_order="0">
+      <attribute name="transcription">QUIT</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="70.80" ytl="48.90" xbr="176.59" ybr="99.74" z_order="0">
+      <attribute name="transcription">DON'T</attribute>
+    </box>
+  </image>
+  <image id="31" name="5a.jpg" width="304" height="166">
+    <box label="text" source="manual" occluded="0" xtl="135.95" ytl="20.11" xbr="293.00" ybr="64.90" z_order="0">
+      <attribute name="transcription">would</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="197.37" ytl="137.37" xbr="233.50" ybr="153.70" z_order="0">
+      <attribute name="transcription">past</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="11.56" ytl="18.32" xbr="98.45" ybr="63.11" z_order="0">
+      <attribute name="transcription">will</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="37.27" ytl="137.00" xbr="82.10" ybr="153.42" z_order="0">
+      <attribute name="transcription">future</attribute>
+    </box>
+  </image>
+  <image id="32" name="6a.jpg" width="225" height="225">
+    <box label="text" source="manual" occluded="0" xtl="76.46" ytl="96.22" xbr="221.69" ybr="126.33" z_order="0">
+      <attribute name="transcription">auto.ru</attribute>
+    </box>
+  </image>
+  <image id="33" name="7a.jpg" width="1215" height="1400">
+    <box label="text" source="manual" occluded="0" xtl="905.56" ytl="1274.91" xbr="1079.66" ybr="1352.28" z_order="0">
+      <attribute name="transcription">love.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="39.17" ytl="58.05" xbr="518.97" ybr="161.57" z_order="0">
+      <attribute name="transcription">Dear Santa.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="39.17" ytl="165.76" xbr="1134.45" ybr="287.50" z_order="0">
+      <attribute name="transcription">I have been very good this</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="47.56" ytl="266.48" xbr="1183.41" ybr="389.60" z_order="0">
+      <attribute name="transcription">year and have been thinking</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="44.77" ytl="365.80" xbr="1051.92" ybr="463.71" z_order="0">
+      <attribute name="transcription">of what I would like for</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="43.37" ytl="470.71" xbr="470.01" ybr="558.84" z_order="0">
+      <attribute name="transcription">Christmas.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="34.97" ytl="565.83" xbr="282.57" ybr="688.93" z_order="0">
+      <attribute name="transcription">1. lego</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="44.05" ytl="663.72" xbr="410.50" ybr="778.40" z_order="0">
+      <attribute name="transcription">2. bicycle</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="44.05" ytl="763.04" xbr="353.20" ybr="884.70" z_order="0">
+      <attribute name="transcription">3. puppy</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="46.16" ytl="967.29" xbr="1173.62" ybr="1062.41" z_order="0">
+      <attribute name="transcription">visit and will leave out some</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="44.77" ytl="1066.60" xbr="1005.76" ybr="1174.32" z_order="0">
+      <attribute name="transcription">snacks for you and your</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="46.16" ytl="1177.12" xbr="393.07" ybr="1258.25" z_order="0">
+      <attribute name="transcription">reindeer</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="39.17" ytl="862.40" xbr="1148.44" ybr="975.69" z_order="0">
+      <attribute name="transcription">I am very excited for your</attribute>
+    </box>
+  </image>
+  <image id="34" name="b1.jpg" width="243" height="208">
+    <box label="text" source="manual" occluded="0" xtl="57.63" ytl="30.66" xbr="190.02" ybr="58.30" z_order="0">
+      <attribute name="transcription">KINDLY KEEP</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="51.40" ytl="153.48" xbr="191.89" ybr="181.12" z_order="0">
+      <attribute name="transcription">DESTINATION</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="35.81" ytl="121.89" xbr="209.35" ybr="148.91" z_order="0">
+      <attribute name="transcription">ARRIVE AT YOUR</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="64.91" ytl="90.93" xbr="175.47" ybr="117.74" z_order="0">
+      <attribute name="transcription">UNTIL YOU</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="55.35" ytl="61.21" xbr="191.47" ybr="86.98" z_order="0">
+      <attribute name="transcription">YOUR TICKET</attribute>
+    </box>
+  </image>
+  <image id="35" name="b10.jpg" width="275" height="183">
+    <box label="text" source="manual" occluded="0" xtl="41.09" ytl="72.05" xbr="126.12" ybr="94.15" z_order="0">
+      <attribute name="transcription">DO YOU</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="46.39" ytl="119.02" xbr="132.88" ybr="144.07" z_order="0">
+      <attribute name="transcription">ENGLISH?</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="53.34" ytl="95.80" xbr="112.77" ybr="118.29" z_order="0">
+      <attribute name="transcription">SPEAK</attribute>
+    </box>
+  </image>
+  <image id="36" name="b11.jpg" width="211" height="239">
+    <box label="text" source="manual" occluded="0" xtl="33.55" ytl="43.22" xbr="176.83" ybr="69.01" z_order="0">
+      <attribute name="transcription">by what you do</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="23.28" ytl="19.81" xbr="186.14" ybr="42.26" z_order="0">
+      <attribute name="transcription">Future is created</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="40.95" ytl="92.89" xbr="168.23" ybr="112.71" z_order="0">
+      <attribute name="transcription">not tomorrow</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="74.62" ytl="69.01" xbr="134.56" ybr="92.17" z_order="0">
+      <attribute name="transcription">today,</attribute>
+    </box>
+  </image>
+  <image id="37" name="b12.jpg" width="225" height="225">
+    <box label="text" source="manual" occluded="0" xtl="39.14" ytl="182.55" xbr="178.08" ybr="218.07" z_order="0">
+      <attribute name="transcription">FOR IT.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="36.90" ytl="129.50" xbr="179.88" ybr="149.73" z_order="0">
+      <attribute name="transcription">DON'T STOP</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="39.37" ytl="99.60" xbr="181.90" ybr="127.92" z_order="0">
+      <attribute name="transcription">ABOUT IT,</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="35.77" ytl="69.25" xbr="179.88" ybr="94.87" z_order="0">
+      <attribute name="transcription">THINKING</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="37.57" ytl="43.17" xbr="178.98" ybr="65.65" z_order="0">
+      <attribute name="transcription">CAN'T STOP</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="34.87" ytl="3.15" xbr="178.30" ybr="40.25" z_order="0">
+      <attribute name="transcription">IF YOU</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="34.65" ytl="154.23" xbr="178.98" ybr="178.06" z_order="0">
+      <attribute name="transcription">WORKING</attribute>
+    </box>
+  </image>
+  <image id="38" name="b13.jpg" width="275" height="183">
+    <box label="text" source="manual" occluded="0" xtl="12.03" ytl="53.65" xbr="55.96" ybr="79.41" z_order="0">
+      <attribute name="transcription">Spring</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="217.63" ytl="54.76" xbr="264.40" ybr="74.83" z_order="0">
+      <attribute name="transcription">Winter</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="144.77" ytl="54.44" xbr="198.19" ybr="75.15" z_order="0">
+      <attribute name="transcription">Autumn</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="75.71" ytl="54.76" xbr="129.29" ybr="75.30" z_order="0">
+      <attribute name="transcription">Summer</attribute>
+    </box>
+  </image>
+  <image id="39" name="b14.jpg" width="275" height="183">
+    <box label="text" source="manual" occluded="0" xtl="18.51" ytl="47.96" xbr="257.45" ybr="157.01" z_order="0">
+      <attribute name="transcription">English</attribute>
+    </box>
+  </image>
+  <image id="40" name="b15.jpg" width="275" height="183">
+    <box label="text" source="manual" occluded="0" xtl="37.31" ytl="28.68" xbr="231.53" ybr="74.83" z_order="0">
+      <attribute name="transcription">ENGLISH</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="23.41" ytl="82.10" xbr="245.12" ybr="131.72" z_order="0">
+      <attribute name="transcription">LANGUAGE</attribute>
+    </box>
+  </image>
+  <image id="41" name="b16.jpg" width="259" height="194">
+    <box label="text" source="manual" occluded="0" xtl="210.76" ytl="67.69" xbr="225.00" ybr="78.41" z_order="0">
+      <attribute name="transcription">TM</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="33.18" ytl="67.69" xbr="218.47" ybr="129.17" z_order="0">
+      <attribute name="transcription">IELTS</attribute>
+    </box>
+  </image>
+  <image id="42" name="b17.jpg" width="275" height="183">
+    <polygon label="text" source="manual" occluded="0" points="130.08,87.95;213.04,105.17;201.03,127.14;127.07,111.33" z_order="0">
+      <attribute name="transcription">Happy</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="109.53,136.30;114.75,113.07;219.05,135.99;212.10,157.32" z_order="0">
+      <attribute name="transcription">Birthday</attribute>
+    </polygon>
+  </image>
+  <image id="43" name="b18.jpg" width="300" height="168">
+    <box label="text" source="manual" occluded="0" xtl="41.73" ytl="112.75" xbr="75.97" ybr="129.72" z_order="0">
+      <attribute name="transcription">VINCI</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="9.21" ytl="12.91" xbr="109.02" ybr="51.35" z_order="0">
+      <attribute name="transcription">LISTEN</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="7.76" ytl="53.96" xbr="110.62" ybr="82.98" z_order="0">
+      <attribute name="transcription">AND READ</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="17.07" ytl="92.73" xbr="100.93" ybr="111.59" z_order="0">
+      <attribute name="transcription">LEONARDO DA</attribute>
+    </box>
+  </image>
+  <image id="44" name="b19.jpg" width="241" height="209">
+    <box label="text" source="manual" occluded="0" xtl="35.36" ytl="108.06" xbr="204.29" ybr="152.28" z_order="0">
+      <attribute name="transcription">and you</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="75.43" ytl="154.08" xbr="171.81" ybr="195.23" z_order="0">
+      <attribute name="transcription">will</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="5.40" ytl="13.30" xbr="233.89" ybr="55.90" z_order="0">
+      <attribute name="transcription">BELIEVE</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="34.46" ytl="68.35" xbr="202.85" ybr="107.16" z_order="0">
+      <attribute name="transcription">you can</attribute>
+    </box>
+  </image>
+  <image id="45" name="b2.jpg" width="253" height="199">
+    <box label="text" source="manual" occluded="0" xtl="83.57" ytl="138.10" xbr="170.70" ybr="161.15" z_order="0">
+      <attribute name="transcription">HERE</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="65.87" ytl="29.15" xbr="190.81" ybr="54.60" z_order="0">
+      <attribute name="transcription">PLEASE</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="66.39" ytl="56.64" xbr="192.53" ybr="81.06" z_order="0">
+      <attribute name="transcription">DO NOT</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="42.33" ytl="82.77" xbr="217.10" ybr="108.22" z_order="0">
+      <attribute name="transcription">LEAVE ANY</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="47.14" ytl="108.89" xbr="209.54" ybr="135.71" z_order="0">
+      <attribute name="transcription">GARBAGE</attribute>
+    </box>
+  </image>
+  <image id="46" name="b20.jpg" width="294" height="171">
+    <box label="text" source="manual" occluded="0" xtl="204.40" ytl="83.98" xbr="246.49" ybr="102.88" z_order="0">
+      <attribute name="transcription">lost</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="164.98" ytl="42.78" xbr="202.93" ybr="60.35" z_order="0">
+      <attribute name="transcription">lose</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="256.82" ytl="37.91" xbr="293.59" ybr="54.74" z_order="0">
+      <attribute name="transcription">lose</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="9.92" ytl="81.17" xbr="102.66" ybr="107.90" z_order="0">
+      <attribute name="transcription">To lose</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="204.99" ytl="109.67" xbr="245.60" ybr="129.17" z_order="0">
+      <attribute name="transcription">lost</attribute>
+    </box>
+  </image>
+  <image id="47" name="b21.jpg" width="225" height="225">
+    <polygon label="text" source="manual" occluded="0" points="38.24,75.99;195.39,74.42;203.93,106.34;176.73,145.91;160.77,141.86;160.09,125.45;169.98,116.68;138.74,120.28;38.02,117.13" z_order="0">
+      <attribute name="transcription">Monday</attribute>
+    </polygon>
+  </image>
+  <image id="48" name="b22.jpg" width="168" height="300">
+    <box label="text" source="manual" occluded="0" xtl="39.99" ytl="149.42" xbr="129.30" ybr="178.80" z_order="0">
+      <attribute name="transcription">DREAMING</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="61.09" ytl="76.36" xbr="108.46" ybr="105.74" z_order="0">
+      <attribute name="transcription">NEVER</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="58.48" ytl="112.88" xbr="109.73" ybr="142.26" z_order="0">
+      <attribute name="transcription">STOP</attribute>
+    </box>
+  </image>
+  <image id="49" name="b23.jpg" width="211" height="239">
+    <box label="text" source="manual" occluded="0" xtl="21.75" ytl="43.69" xbr="191.40" ybr="77.54" z_order="0">
+      <attribute name="transcription">FOLLOW</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="51.47" ytl="88.27" xbr="161.89" ybr="121.50" z_order="0">
+      <attribute name="transcription">YOUR</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="30.00" ytl="132.23" xbr="183.15" ybr="166.90" z_order="0">
+      <attribute name="transcription">DREAMS</attribute>
+    </box>
+  </image>
+  <image id="50" name="b24.jpg" width="225" height="225">
+    <box label="text" source="manual" occluded="0" xtl="35.41" ytl="117.49" xbr="193.19" ybr="155.76" z_order="0">
+      <attribute name="transcription">TO COME</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="81.85" ytl="77.27" xbr="164.43" ybr="114.57" z_order="0">
+      <attribute name="transcription">IS YET</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="56.98" ytl="31.80" xbr="170.26" ybr="72.60" z_order="0">
+      <attribute name="transcription">THE BEST</attribute>
+    </box>
+  </image>
+  <image id="51" name="b25.jpg" width="665" height="443">
+    <polygon label="text" source="manual" occluded="0" points="168.48,188.11;171.93,230.19;412.55,213.74;406.82,174.34" z_order="0">
+      <attribute name="transcription">Didn't work.</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="186.85,134.55;193.73,191.17;403.37,178.16;398.78,121.16" z_order="0">
+      <attribute name="transcription">IF "Plan A"</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="145.53,230.57;149.36,275.33;247.67,266.15;247.29,281.84;262.21,280.31;261.45,265.39;465.73,248.55;460.37,215.65" z_order="0">
+      <attribute name="transcription">The alphabet has</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="169.63,276.10;172.69,315.50;490.60,293.31;488.30,248.55" z_order="0">
+      <attribute name="transcription">25 more letters!</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="196.41,321.24;203.30,361.41;288.99,357.96;288.99,368.68;302.76,366.76;309.26,351.84;447.75,341.51;435.51,302.88" z_order="0">
+      <attribute name="transcription">Stay Cool.</attribute>
+    </polygon>
+  </image>
+  <image id="52" name="b26.jpg" width="309" height="163">
+    <box label="text" source="manual" occluded="0" xtl="110.56" ytl="48.33" xbr="197.68" ybr="65.67" z_order="0">
+      <attribute name="transcription">"Never love</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="116.06" ytl="112.05" xbr="190.91" ybr="128.40" z_order="0">
+      <attribute name="transcription">ordinary."</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="96.74" ytl="91.05" xbr="212.34" ybr="107.96" z_order="0">
+      <attribute name="transcription">you like you are</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="86.31" ytl="68.63" xbr="222.77" ybr="87.38" z_order="0">
+      <attribute name="transcription">anyone who treats</attribute>
+    </box>
+  </image>
+  <image id="53" name="b27.jpg" width="275" height="183">
+    <box label="text" source="manual" occluded="0" xtl="125.29" ytl="98.55" xbr="163.90" ybr="131.40" z_order="0">
+      <attribute name="transcription">you</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="124.74" ytl="22.40" xbr="156.90" ybr="58.60" z_order="0">
+      <attribute name="transcription">do</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="127.34" ytl="72.64" xbr="159.84" ybr="87.04" z_order="0">
+      <attribute name="transcription">what</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="129.60" ytl="136.83" xbr="162.58" ybr="152.43" z_order="0">
+      <attribute name="transcription">love</attribute>
+    </box>
+  </image>
+  <image id="54" name="b28.jpg" width="275" height="183">
+    <box label="text" source="manual" occluded="0" xtl="56.01" ytl="83.00" xbr="216.24" ybr="109.50" z_order="0">
+      <attribute name="transcription">TO LEARN</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="48.80" ytl="116.69" xbr="212.46" ybr="146.13" z_order="0">
+      <attribute name="transcription">ENGLISH!</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="52.72" ytl="47.79" xbr="209.57" ybr="78.19" z_order="0">
+      <attribute name="transcription">IT'S TIME</attribute>
+    </box>
+  </image>
+  <image id="55" name="b29.jpg" width="275" height="183">
+    <box label="text" source="manual" occluded="0" xtl="41.64" ytl="62.70" xbr="244.78" ybr="109.33" z_order="0">
+      <attribute name="transcription">DECEMBER</attribute>
+    </box>
+  </image>
+  <image id="56" name="b3.jpg" width="376" height="134">
+    <box label="text" source="manual" occluded="0" xtl="114.79" ytl="68.02" xbr="266.69" ybr="95.73" z_order="0">
+      <attribute name="transcription">baggage</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="43.11" ytl="90.94" xbr="330.67" ybr="116.77" z_order="0">
+      <attribute name="transcription">will be removed</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="37.98" ytl="17.39" xbr="340.59" ybr="43.05" z_order="0">
+      <attribute name="transcription">IMPORTANT NOTICE</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="91.52" ytl="45.95" xbr="288.42" ybr="69.56" z_order="0">
+      <attribute name="transcription">Unattended</attribute>
+    </box>
+  </image>
+  <image id="57" name="b30.jpg" width="275" height="183">
+    <box label="text" source="manual" occluded="0" xtl="93.68" ytl="110.46" xbr="163.50" ybr="134.90" z_order="0">
+      <attribute name="transcription">Ever.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="92.81" ytl="80.95" xbr="211.50" ybr="105.10" z_order="0">
+      <attribute name="transcription">Summer.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="93.36" ytl="50.84" xbr="160.70" ybr="73.90" z_order="0">
+      <attribute name="transcription">Best.</attribute>
+    </box>
+  </image>
+  <image id="58" name="b4.jpg" width="225" height="225">
+    <polygon label="text" source="manual" occluded="0" points="6.10,83.86;20.03,165.02;188.64,147.93;186.17,92.85;105.69,94.65;100.07,78.46" z_order="0">
+      <attribute name="transcription">YES</attribute>
+    </polygon>
+  </image>
+  <image id="59" name="b5.jpg" width="259" height="194">
+    <box label="text" source="manual" occluded="0" xtl="18.56" ytl="28.19" xbr="130.41" ybr="105.54" z_order="0">
+      <attribute name="transcription">NO</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="15.27" ytl="129.38" xbr="236.82" ybr="176.48" z_order="0">
+      <attribute name="transcription">SMOKING</attribute>
+    </box>
+  </image>
+  <image id="60" name="b6.jpg" width="225" height="225">
+    <box label="text" source="manual" occluded="0" xtl="54.66" ytl="171.31" xbr="170.66" ybr="219.42" z_order="0">
+      <attribute name="transcription">HAIR</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="38.92" ytl="97.80" xbr="185.95" ybr="148.38" z_order="0">
+      <attribute name="transcription">YOUR</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="4.97" ytl="9.45" xbr="221.02" ybr="78.24" z_order="0">
+      <attribute name="transcription">WOW</attribute>
+    </box>
+  </image>
+  <image id="61" name="b7.jpg" width="194" height="259">
+    <box label="text" source="manual" occluded="0" xtl="32.61" ytl="221.78" xbr="162.52" ybr="248.70" z_order="0">
+      <attribute name="transcription">Biohazard</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="16.57" ytl="178.82" xbr="178.57" ybr="221.01" z_order="0">
+      <attribute name="transcription">Warning</attribute>
+    </box>
+  </image>
+  <image id="62" name="b8.jpg" width="225" height="225">
+    <box label="text" source="manual" occluded="0" xtl="52.18" ytl="184.13" xbr="174.26" ybr="212.90" z_order="0">
+      <attribute name="transcription">6 7 8 9 0</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="15.54" ytl="16.42" xbr="210.90" ybr="46.09" z_order="0">
+      <attribute name="transcription">A B C D E F G</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="24.53" ytl="49.46" xbr="200.56" ybr="78.91" z_order="0">
+      <attribute name="transcription">H I J K L M N</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="15.54" ytl="82.73" xbr="208.20" ybr="112.63" z_order="0">
+      <attribute name="transcription">O P Q R S T U</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="44.09" ytl="116.68" xbr="182.57" ybr="145.01" z_order="0">
+      <attribute name="transcription">V W X Y Z</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="53.08" ytl="150.40" xbr="173.36" ybr="179.18" z_order="0">
+      <attribute name="transcription">1 2 3 4 5</attribute>
+    </box>
+  </image>
+  <image id="63" name="b9.jpg" width="275" height="183">
+    <polygon label="text" source="manual" occluded="0" points="111.49,89.95;111.67,102.02;166.71,102.57;165.25,90.13" z_order="0">
+      <attribute name="transcription">we are</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="98.51,65.26;99.05,85.56;179.69,86.66;183.16,63.80" z_order="0">
+      <attribute name="transcription">SORRY</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="85.71,104.05;86.62,137.31;197.61,142.24;197.24,106.04" z_order="0">
+      <attribute name="transcription">CLOSED</attribute>
+    </polygon>
+  </image>
+  <image id="64" name="c1.jpg" width="800" height="400">
+    <box label="text" source="manual" occluded="0" xtl="46.02" ytl="272.18" xbr="744.60" ybr="309.64" z_order="0">
+      <attribute name="transcription">ANY ATTEMPT TO LEAVE THIS AREA</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="51.36" ytl="224.20" xbr="738.70" ybr="264.45" z_order="0">
+      <attribute name="transcription">YOU ARE IN A QUARANTINED AREA.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="96.02" ytl="54.88" xbr="710.10" ybr="149.20" z_order="0">
+      <attribute name="transcription">NO ENTRY</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="30.95" ytl="364.20" xbr="762.10" ybr="399.13" z_order="0">
+      <attribute name="transcription">U.S. MILITARY REPRESENTATIVE WILL</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="32.49" ytl="319.02" xbr="758.50" ybr="352.28" z_order="0">
+      <attribute name="transcription">WITHOUT WRITTEN PERMISSION OF A</attribute>
+    </box>
+  </image>
+  <image id="65" name="c10.jpg" width="416" height="283">
+    <box label="text" source="manual" occluded="0" xtl="61.85" ytl="236.09" xbr="140.48" ybr="254.45" z_order="0">
+      <attribute name="transcription">Ashamed</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="321.99" ytl="234.39" xbr="376.00" ybr="255.88" z_order="0">
+      <attribute name="transcription">Bored</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="61.00" ytl="115.63" xbr="141.31" ybr="138.25" z_order="0">
+      <attribute name="transcription">Surprised</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="323.41" ytl="52.29" xbr="380.53" ybr="75.76" z_order="0">
+      <attribute name="transcription">Angry</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="199.28" ytl="175.86" xbr="242.00" ybr="192.80" z_order="0">
+      <attribute name="transcription">Sick</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="201.85" ytl="51.73" xbr="239.14" ybr="70.96" z_order="0">
+      <attribute name="transcription">Sad</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="322.56" ytl="118.46" xbr="402.30" ybr="140.20" z_order="0">
+      <attribute name="transcription">Thoughtful</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="65.53" ytl="174.17" xbr="130.30" ybr="197.92" z_order="0">
+      <attribute name="transcription">Healthy</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="193.34" ytl="113.94" xbr="260.07" ybr="137.41" z_order="0">
+      <attribute name="transcription">Sleepy</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="189.94" ytl="238.07" xbr="249.35" ybr="255.88" z_order="0">
+      <attribute name="transcription">Scared</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="65.25" ytl="52.01" xbr="120.95" ybr="75.20" z_order="0">
+      <attribute name="transcription">Happy</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="320.86" ytl="183.49" xbr="384.50" ybr="207.50" z_order="0">
+      <attribute name="transcription">Hungry</attribute>
+    </box>
+  </image>
+  <image id="66" name="c11.jpg" width="409" height="279">
+    <box label="text" source="manual" occluded="0" xtl="10.67" ytl="1.36" xbr="81.20" ybr="16.72" z_order="0">
+      <attribute name="transcription">I told you</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="230.34" ytl="181.19" xbr="292.50" ybr="198.20" z_order="0">
+      <attribute name="transcription">Shut up!</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="12.07" ytl="39.02" xbr="58.06" ybr="54.63" z_order="0">
+      <attribute name="transcription">bleach</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="11.79" ytl="22.85" xbr="83.15" ybr="35.12" z_order="0">
+      <attribute name="transcription">not to use</attribute>
+    </box>
+  </image>
+  <image id="67" name="c12.jpg" width="700" height="237">
+    <box label="text" source="manual" occluded="0" xtl="27.79" ytl="108.74" xbr="679.34" ybr="159.90" z_order="0">
+      <attribute name="transcription">Happiness is not a destination.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="135.34" ytl="163.99" xbr="569.21" ybr="206.72" z_order="0">
+      <attribute name="transcription">It is a method of life</attribute>
+    </box>
+  </image>
+  <image id="68" name="c13.jpg" width="284" height="159">
+    <box label="text" source="manual" occluded="0" xtl="18.11" ytl="75.46" xbr="262.29" ybr="103.10" z_order="0">
+      <attribute name="transcription">today, you'll have to</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="55.94" ytl="104.06" xbr="222.59" ybr="123.60" z_order="0">
+      <attribute name="transcription">run tomorrow.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="35.90" ytl="47.66" xbr="244.02" ybr="77.53" z_order="0">
+      <attribute name="transcription">If you don't walk</attribute>
+    </box>
+  </image>
+  <image id="69" name="c14.jpg" width="1200" height="1588">
+    <box label="text" source="manual" occluded="0" xtl="854.26" ytl="1406.58" xbr="947.87" ybr="1457.35" z_order="0">
+      <attribute name="transcription">bee</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="241.80" ytl="1401.82" xbr="308.44" ybr="1460.53" z_order="0">
+      <attribute name="transcription">fly</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="839.98" ytl="992.46" xbr="1000.23" ybr="1046.40" z_order="0">
+      <attribute name="transcription">spider</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="257.67" ytl="962.31" xbr="481.39" ybr="1021.02" z_order="0">
+      <attribute name="transcription">mosquito</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="776.51" ytl="524.39" xbr="984.37" ybr="586.27" z_order="0">
+      <attribute name="transcription">ladybird</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="208.48" ytl="464.10" xbr="419.51" ybr="541.84" z_order="0">
+      <attribute name="transcription">butterfly</attribute>
+    </box>
+  </image>
+  <image id="70" name="c15.jpg" width="473" height="511">
+    <box label="text" source="manual" occluded="0" xtl="363.33" ytl="185.24" xbr="414.90" ybr="206.68" z_order="0">
+      <attribute name="transcription">thumb</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="322.99" ytl="327.22" xbr="445.50" ybr="348.67" z_order="0">
+      <attribute name="transcription">wing membrane</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="182.06" ytl="360.90" xbr="208.90" ybr="380.30" z_order="0">
+      <attribute name="transcription">leg</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="262.61" ytl="397.71" xbr="297.50" ybr="417.11" z_order="0">
+      <attribute name="transcription">foot</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="339.98" ytl="485.04" xbr="464.05" ybr="505.97" z_order="0">
+      <attribute name="transcription">VectorStock.com/25010025</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="99.51" ytl="297.66" xbr="145.50" ybr="320.63" z_order="0">
+      <attribute name="transcription">finger</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="10.15" ytl="479.93" xbr="103.08" ybr="506.99" z_order="0">
+      <attribute name="transcription">VectorStock</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="39.77" ytl="242.52" xbr="141.37" ybr="261.41" z_order="0">
+      <attribute name="transcription">second finger</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="121.97" ytl="200.65" xbr="153.12" ybr="219.54" z_order="0">
+      <attribute name="transcription">eye</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="315.48" ytl="146.53" xbr="376.24" ybr="169.50" z_order="0">
+      <attribute name="transcription">forearm</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="298.12" ytl="113.34" xbr="325.18" ybr="130.70" z_order="0">
+      <attribute name="transcription">ear</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="134.22" ytl="29.56" xbr="353.77" ybr="61.30" z_order="0">
+      <attribute name="transcription">Body Part of Bat</attribute>
+    </box>
+  </image>
+  <image id="71" name="c16.jpg" width="1200" height="675">
+    <box label="text" source="manual" occluded="0" xtl="458.51" ytl="468.02" xbr="863.17" ybr="535.46" z_order="0">
+      <attribute name="transcription">Sweetheart</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="256.85" ytl="229.27" xbr="546.18" ybr="298.73" z_order="0">
+      <attribute name="transcription">Sweetie</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="268.99" ytl="153.73" xbr="636.56" ybr="231.29" z_order="0">
+      <attribute name="transcription">I miss you,</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="505.04" ytl="389.78" xbr="876.66" ybr="471.39" z_order="0">
+      <attribute name="transcription">I love you,</attribute>
+    </box>
+  </image>
+  <image id="72" name="c17.jpg" width="1200" height="630">
+    <box label="text" source="manual" occluded="0" xtl="495.93" ytl="424.26" xbr="584.32" ybr="459.62" z_order="0">
+      <attribute name="transcription">reading</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="485.19" ytl="332.71" xbr="718.81" ybr="402.80" z_order="0">
+      <attribute name="transcription">Levels</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="447.31" ytl="263.26" xbr="750.38" ybr="339.66" z_order="0">
+      <attribute name="transcription">Texts by</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="464.99" ytl="189.38" xbr="728.91" ybr="271.47" z_order="0">
+      <attribute name="transcription">English</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="646.20" ytl="429.31" xbr="701.13" ybr="455.20" z_order="0">
+      <attribute name="transcription">Skills</attribute>
+    </box>
+  </image>
+  <image id="73" name="c18.jpg" width="600" height="400">
+    <box label="text" source="manual" occluded="0" xtl="93.06" ytl="8.18" xbr="497.53" ybr="102.50" z_order="0">
+      <attribute name="transcription">Do you speak</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="217.00" ytl="85.30" xbr="475.94" ybr="184.83" z_order="0">
+      <attribute name="transcription">English ?</attribute>
+    </box>
+  </image>
+  <image id="74" name="c19.jpg" width="1806" height="1002">
+    <polygon label="text" source="manual" occluded="0" points="355.53,360.93;824.07,382.96;809.05,598.21;307.47,561.16;306.47,507.10;327.49,414.99" z_order="0">
+      <attribute name="transcription">I AM CAN,</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="1188.49,581.19;831.08,564.17;823.07,625.24;661.88,623.24;654.87,676.30;677.90,759.39;1214.52,785.42;1194.50,701.33" z_order="0">
+      <attribute name="transcription">SO I CAN'T</attribute>
+    </polygon>
+  </image>
+  <image id="75" name="c2.jpg" width="800" height="400">
+    <box label="text" source="manual" occluded="0" xtl="119.76" ytl="297.69" xbr="666.55" ybr="398.71" z_order="0">
+      <attribute name="transcription">The Grass</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="158.07" ytl="157.48" xbr="638.31" ybr="275.38" z_order="0">
+      <attribute name="transcription">Keep Off</attribute>
+    </box>
+  </image>
+  <image id="76" name="c20.jpg" width="300" height="299">
+    <box label="text" source="manual" occluded="0" xtl="47.58" ytl="18.81" xbr="251.03" ybr="44.80" z_order="0">
+      <attribute name="transcription">MODAL VERB</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="114.20" ytl="145.48" xbr="180.22" ybr="172.96" z_order="0">
+      <attribute name="transcription">CAN</attribute>
+    </box>
+  </image>
+  <image id="77" name="c21.jpg" width="700" height="452">
+    <box label="text" source="manual" occluded="0" xtl="230.88" ytl="48.10" xbr="437.72" ybr="146.56" z_order="0">
+      <attribute name="transcription">Will</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="169.46" ytl="287.90" xbr="513.14" ybr="387.72" z_order="0">
+      <attribute name="transcription">Would</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="272.88" ytl="182.24" xbr="395.27" ybr="253.14" z_order="0">
+      <attribute name="transcription">vs</attribute>
+    </box>
+  </image>
+  <image id="78" name="c22.jpg" width="600" height="545">
+    <polygon label="text" source="manual" occluded="0" points="67.58,239.15;112.47,246.96;131.02,184.50;176.88,127.89;222.75,98.62;291.07,81.05;358.40,92.76;413.06,119.11;459.90,161.07;483.32,123.01;397.44,58.60;295.95,33.23;187.62,65.43;116.38,125.94;80.27,196.21" z_order="0">
+      <attribute name="transcription">LEARN ENGLISH</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="3.01,295.07;26.42,403.98;594.93,248.79;572.60,143.69" z_order="0">
+      <attribute name="transcription">ENGLISH</attribute>
+    </polygon>
+    <polygon label="text" source="manual" occluded="0" points="123.08,418.68;147.59,393.63;210.75,444.28;274.47,461.70;368.13,452.99;431.84,414.33;473.22,358.78;494.46,297.79;532.58,305.96;512.98,368.04;477.04,423.58;443.27,460.07;368.67,497.10;289.71,504.72;216.20,490.02;157.93,457.35" z_order="0">
+      <attribute name="transcription">ENGLISH IS FUN</attribute>
+    </polygon>
+  </image>
+  <image id="79" name="c25.jpg" width="185" height="250">
+    <box label="text" source="manual" occluded="0" xtl="58.65" ytl="209.78" xbr="122.67" ybr="236.65" z_order="0">
+      <attribute name="transcription">COAT</attribute>
+    </box>
+  </image>
+  <image id="80" name="c27.jpg" width="1280" height="720">
+    <box label="text" source="manual" occluded="0" xtl="932.45" ytl="463.67" xbr="1111.79" ybr="548.76" z_order="0">
+      <attribute name="transcription">are</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="483.91" ytl="141.35" xbr="721.14" ybr="225.15" z_order="0">
+      <attribute name="transcription">to be</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="113.76" ytl="464.96" xbr="278.92" ybr="546.18" z_order="0">
+      <attribute name="transcription">am</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="572.87" ytl="444.33" xbr="663.12" ybr="543.61" z_order="0">
+      <attribute name="transcription">is</attribute>
+    </box>
+  </image>
+  <image id="81" name="c28.jpg" width="952" height="470">
+    <box label="text" source="manual" occluded="0" xtl="134.72" ytl="167.13" xbr="822.37" ybr="302.69" z_order="0">
+      <attribute name="transcription">auto.ru</attribute>
+    </box>
+  </image>
+  <image id="82" name="c29.jpg" width="662" height="1200">
+    <box label="text" source="manual" occluded="0" xtl="227.60" ytl="349.44" xbr="610.09" ybr="433.24" z_order="0">
+      <attribute name="transcription">YOU CAN EVERYTHING.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="352.23" ytl="454.73" xbr="554.22" ybr="532.09" z_order="0">
+      <attribute name="transcription">JUST DO IT.</attribute>
+    </box>
+  </image>
+  <image id="83" name="c3.jpg" width="800" height="400">
+    <box label="text" source="manual" occluded="0" xtl="40.82" ytl="207.08" xbr="751.44" ybr="372.29" z_order="0">
+      <attribute name="transcription">PARKING</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="279.20" ytl="29.80" xbr="509.29" ybr="195.01" z_order="0">
+      <attribute name="transcription">NO</attribute>
+    </box>
+  </image>
+  <image id="84" name="c30.jpg" width="750" height="1334">
+    <box label="text" source="manual" occluded="0" xtl="157.91" ytl="676.74" xbr="592.01" ybr="780.28" z_order="0">
+      <attribute name="transcription">YOU GET BIG</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="255.48" ytl="1284.08" xbr="498.42" ybr="1313.95" z_order="0">
+      <attribute name="transcription">M E D A H U G H E S</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="104.82" ytl="560.36" xbr="639.90" ybr="677.41" z_order="0">
+      <attribute name="transcription">YOU THINK BIG</attribute>
+    </box>
+  </image>
+  <image id="85" name="c31.jpg" width="236" height="354">
+    <box label="text" source="manual" occluded="0" xtl="63.93" ytl="161.69" xbr="173.93" ybr="187.16" z_order="0">
+      <attribute name="transcription">BE REAL,</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="39.52" ytl="223.23" xbr="199.04" ybr="249.41" z_order="0">
+      <attribute name="transcription">BE PERFECT.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="67.46" ytl="193.50" xbr="168.30" ybr="216.51" z_order="0">
+      <attribute name="transcription">NOT TO</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="46.24" ytl="96.61" xbr="188.43" ybr="121.72" z_order="0">
+      <attribute name="transcription">YOU WERE</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="55.44" ytl="129.86" xbr="174.28" ybr="155.32" z_order="0">
+      <attribute name="transcription">BORN TO</attribute>
+    </box>
+  </image>
+  <image id="86" name="c32.jpg" width="484" height="747">
+    <box label="text" source="manual" occluded="0" xtl="70.45" ytl="402.07" xbr="413.04" ybr="525.97" z_order="0">
+      <attribute name="transcription">YOU</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="69.71" ytl="160.99" xbr="404.83" ybr="329.67" z_order="0">
+      <attribute name="transcription">DO</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="158.53" ytl="341.61" xbr="327.21" ybr="392.37" z_order="0">
+      <attribute name="transcription">what</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="174.20" ytl="534.92" xbr="313.03" ybr="588.66" z_order="0">
+      <attribute name="transcription">love</attribute>
+    </box>
+  </image>
+  <image id="87" name="c33.jpg" width="474" height="272">
+    <box label="text" source="manual" occluded="0" xtl="95.99" ytl="76.42" xbr="372.11" ybr="150.07" z_order="0">
+      <attribute name="transcription">SMILE</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="83.76" ytl="153.06" xbr="390.59" ybr="189.75" z_order="0">
+      <attribute name="transcription">Why? Because you can.</attribute>
+    </box>
+  </image>
+  <image id="88" name="c34.jpg" width="601" height="477">
+    <box label="text" source="manual" occluded="0" xtl="41.07" ytl="294.86" xbr="341.32" ybr="348.23" z_order="0">
+      <attribute name="transcription">DEPRESSED,</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="39.64" ytl="231.47" xbr="313.20" ybr="283.42" z_order="0">
+      <attribute name="transcription">STRESSED,</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="38.68" ytl="376.83" xbr="557.22" ybr="432.12" z_order="0">
+      <attribute name="transcription">BUT WELL DRESSED.</attribute>
+    </box>
+  </image>
+  <image id="89" name="c35.jpg" width="236" height="236">
+    <box label="text" source="manual" occluded="0" xtl="71.35" ytl="133.02" xbr="161.43" ybr="170.53" z_order="0">
+      <attribute name="transcription">ENGLISH</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="70.41" ytl="70.76" xbr="165.44" ybr="109.93" z_order="0">
+      <attribute name="transcription">LEARN</attribute>
+    </box>
+  </image>
+  <image id="90" name="c4.jpg" width="262" height="178">
+    <box label="text" source="manual" occluded="0" xtl="119.46" ytl="25.45" xbr="208.57" ybr="66.20" z_order="0">
+      <attribute name="transcription">ENGLISH</attribute>
+    </box>
+  </image>
+  <image id="91" name="c5.jpg" width="1200" height="1128">
+    <box label="text" source="manual" occluded="0" xtl="353.32" ytl="882.70" xbr="800.76" ybr="1014.57" z_order="0">
+      <attribute name="transcription">team</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="307.11" ytl="502.77" xbr="947.28" ybr="697.86" z_order="0">
+      <attribute name="transcription">ENGLISH</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="455.88" ytl="711.39" xbr="805.27" ybr="896.23" z_order="0">
+      <attribute name="transcription">TIME</attribute>
+    </box>
+  </image>
+  <image id="92" name="c6.jpg" width="1024" height="576">
+    <box label="text" source="manual" occluded="0" xtl="455.66" ytl="459.92" xbr="567.31" ybr="504.81" z_order="0">
+      <attribute name="transcription">FROWN</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="776.80" ytl="460.50" xbr="888.45" ybr="504.24" z_order="0">
+      <attribute name="transcription">SQUINT</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="147.19" ytl="459.35" xbr="227.76" ybr="505.96" z_order="0">
+      <attribute name="transcription">POUT</attribute>
+    </box>
+  </image>
+  <image id="93" name="c7.jpg" width="1024" height="576">
+    <box label="text" source="manual" occluded="0" xtl="791.19" ytl="453.59" xbr="889.60" ybr="496.18" z_order="0">
+      <attribute name="transcription">SMIRK</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="136.25" ytl="451.86" xbr="232.36" ybr="495.03" z_order="0">
+      <attribute name="transcription">SMILE</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="476.38" ytl="451.86" xbr="550.62" ybr="497.91" z_order="0">
+      <attribute name="transcription">GRIN</attribute>
+    </box>
+  </image>
+  <image id="94" name="c8.jpg" width="1024" height="576">
+    <box label="text" source="manual" occluded="0" xtl="140.86" ytl="452.44" xbr="225.46" ybr="496.18" z_order="0">
+      <attribute name="transcription">WINK</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="468.90" ytl="453.59" xbr="568.46" ybr="495.03" z_order="0">
+      <attribute name="transcription">STARE</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="722.13" ytl="453.59" xbr="969.03" ybr="497.33" z_order="0">
+      <attribute name="transcription">ROLL YOUR EYES</attribute>
+    </box>
+  </image>
+  <image id="95" name="c9.jpg" width="791" height="1024">
+    <box label="text" source="manual" occluded="0" xtl="553.73" ytl="587.39" xbr="734.83" ybr="649.91" z_order="0">
+      <attribute name="transcription">worried</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="37.00" ytl="913.88" xbr="254.97" ybr="989.59" z_order="0">
+      <attribute name="transcription">surprised</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="561.08" ytl="910.81" xbr="735.28" ybr="985.09" z_order="0">
+      <attribute name="transcription">cranky</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="313.48" ytl="909.93" xbr="479.73" ybr="976.25" z_order="0">
+      <attribute name="transcription">scared</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="74.90" ytl="278.40" xbr="215.07" ybr="334.78" z_order="0">
+      <attribute name="transcription">angry</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="345.01" ytl="265.10" xbr="448.35" ybr="321.48" z_order="0">
+      <attribute name="transcription">sad</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="564.99" ytl="258.96" xbr="720.50" ybr="338.87" z_order="0">
+      <attribute name="transcription">happy</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="108.66" ytl="589.44" xbr="186.42" ybr="657.07" z_order="0">
+      <attribute name="transcription">silly</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="337.85" ytl="585.35" xbr="453.46" ybr="650.93" z_order="0">
+      <attribute name="transcription">tired</attribute>
+    </box>
+  </image>
+  <image id="96" name="с23.jpg" width="340" height="270">
+    <box label="text" source="manual" occluded="0" xtl="99.53" ytl="44.20" xbr="243.86" ybr="121.09" z_order="0">
+      <attribute name="transcription">BOY</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="98.99" ytl="125.11" xbr="230.37" ybr="153.19" z_order="0">
+      <attribute name="transcription">LONDON</attribute>
+    </box>
+  </image>
+  <image id="97" name="с24.jpg" width="340" height="270">
+    <box label="text" source="manual" occluded="0" xtl="107.35" ytl="131.07" xbr="233.07" ybr="195.00" z_order="0">
+      <attribute name="transcription">DAD.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="107.08" ytl="62.81" xbr="255.46" ybr="130.26" z_order="0">
+      <attribute name="transcription">BEST.</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="107.62" ytl="195.27" xbr="257.08" ybr="258.40" z_order="0">
+      <attribute name="transcription">EVER.</attribute>
+    </box>
+  </image>
+  <image id="98" name="с25.jpg" width="1024" height="533">
+    <box label="text" source="manual" occluded="0" xtl="395.49" ytl="33.64" xbr="628.25" ybr="72.49" z_order="0">
+      <attribute name="transcription">fluentexpress</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="119.63" ytl="292.26" xbr="922.97" ybr="373.70" z_order="0">
+      <attribute name="transcription">checked fastly quickly</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="122.87" ytl="418.39" xbr="873.94" ybr="504.60" z_order="0">
+      <attribute name="transcription">by a real man person</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="119.48" ytl="170.00" xbr="906.94" ybr="249.26" z_order="0">
+      <attribute name="transcription">Get your bad English</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="463.00" ytl="116.10" xbr="613.00" ybr="173.20" z_order="0">
+      <attribute name="transcription">poor</attribute>
+    </box>
+  </image>
+  <image id="99" name="с26.jpg" width="535" height="699">
+    <box label="text" source="manual" occluded="0" xtl="33.75" ytl="84.04" xbr="494.71" ybr="112.67" z_order="0">
+      <attribute name="transcription">I was wondering if after all our fights you'd</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="32.36" ytl="114.77" xbr="165.75" ybr="145.50" z_order="0">
+      <attribute name="transcription">like to meet</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="33.75" ytl="146.90" xbr="336.86" ybr="179.02" z_order="0">
+      <attribute name="transcription">To forget all that was wrong</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="34.45" ytl="179.02" xbr="310.32" ybr="209.05" z_order="0">
+      <attribute name="transcription">Live together in the Trird</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="32.36" ytl="209.05" xbr="318.71" ybr="243.28" z_order="0">
+      <attribute name="transcription">That's why I sing this song</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="33.75" ytl="243.98" xbr="294.26" ybr="271.91" z_order="0">
+      <attribute name="transcription">Hello, can you hear me?</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="35.08" ytl="274.29" xbr="451.33" ybr="306.41" z_order="0">
+      <attribute name="transcription">I'm in Sosnovoya, I am dreaming about</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="35.78" ytl="307.81" xbr="223.65" ybr="336.45" z_order="0">
+      <attribute name="transcription">how it used to be</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="34.38" ytl="532.00" xbr="307.46" ybr="561.33" z_order="0">
+      <attribute name="transcription">Hello from the other side</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="32.98" ytl="562.03" xbr="394.06" ybr="592.07" z_order="0">
+      <attribute name="transcription">I must've called a thousand times</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="33.68" ytl="341.33" xbr="469.49" ybr="368.57" z_order="0">
+      <attribute name="transcription">When we were together, when we were</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="35.78" ytl="373.46" xbr="79.78" ybr="396.51" z_order="0">
+      <attribute name="transcription">free</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="32.98" ytl="404.89" xbr="442.95" ybr="432.13" z_order="0">
+      <attribute name="transcription">I remember how I felt when you were</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="31.59" ytl="437.72" xbr="180.35" ybr="462.16" z_order="0">
+      <attribute name="transcription">smiling at me</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="33.31" ytl="596.37" xbr="373.75" ybr="626.55" z_order="0">
+      <attribute name="transcription">To tell you: "Nastya, I'm sorry!"</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="34.38" ytl="467.75" xbr="403.10" ybr="497.08" z_order="0">
+      <attribute name="transcription">There is no difference between us</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="34.38" ytl="501.97" xbr="445.75" ybr="530.60" z_order="0">
+      <attribute name="transcription">There's just misunderstanding and lies</attribute>
+    </box>
+    <box label="text" source="manual" occluded="0" xtl="32.36" ytl="51.84" xbr="216.04" ybr="80.55" z_order="0">
+      <attribute name="transcription">Hello, it's Sergey</attribute>
+    </box>
+  </image>
+</annotations>
